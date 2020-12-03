@@ -32,8 +32,6 @@ sections:
   label: All Pages
   create: all
   match: "**/*"
-- type: heading
-  label: Configuration
 - type: document
   path: config.toml
   label: Configuration
